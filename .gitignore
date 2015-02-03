@@ -4,3 +4,9 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+sites/all/themes/bootstrap_subtheme/img
+sites/all/themes/bootstrap_subtheme/node_modules
+sites/all/themes/bootstrap_subtheme/Gruntfile.js
+sites/all/themes/bootstrap_subtheme/package.json
+sites/all/themes/bootstrap_subtheme/README.md
+sites/all/themes/bootstrap_subtheme/npm
